@@ -73,9 +73,13 @@ Note: Did not include the classifier.pkl because of its large size.
 3. Click on the generated hyperlink in the terminal or go to                 http://127.0.0.1:3001/
    
      
-     
+
+
+# Screenshots
+
 ![Main Page](screenshots/Main%20Page.PNG)
 
+## EDA of dataset
 ![Categories](screenshots/Percentages%20of%20categories.PNG)
 
 ## Examples
