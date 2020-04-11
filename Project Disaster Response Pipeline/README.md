@@ -19,7 +19,7 @@ In this project, we have given a dataset provided by Figure Eight to Udacity. Th
     
 3. Web-app
    - The home page of the web-app has a simple interface showing an input box and some data visualization of the dataset.
-   - The user simmpy have to enter request message. The ML model will classify the message and highlighted one of 36 important categories for the response team to proceed accordingly.
+   - The user simply have to enter request message. The ML model will classify the message and highlighted one of 36 important categories for the response team to proceed accordingly.
    
 ## File Description
     |   ETL Pipeline Preparation.ipynb
