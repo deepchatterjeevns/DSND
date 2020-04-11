@@ -74,17 +74,18 @@ Note: Did not include the classifier.pkl because of its large size.
    
      
      
-![screenshots](screenshots/Main%20Page.png)
+![Main Page](screenshots/Main%20Page.PNG)
 
-![screenshots](screenshots/Percentages%20of%20categories.png)
+![Categories](screenshots/Percentages%20of%20categories.PNG)
 
 ## Examples
 
   - Message 1 : Stranded at home. Need food and water for a family of 6.
 
-![screenshots](screenshots/Search%20esults.png)
 
-  -
+![Results](screenshots/Search%20Results.PNG)
+
+  
 
    
    
