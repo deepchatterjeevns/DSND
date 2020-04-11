@@ -22,40 +22,40 @@ In this project, we have given a dataset provided by Figure Eight to Udacity. Th
    - The user simmpy have to enter request message. The ML model will classify the message and highlighted one of 36 important categories for the response team to proceed accordingly.
    
 ## File Description
-|   ETL Pipeline Preparation.ipynb
-|   ML Pipeline Preparation.ipynb
-|   new.txt
-|   README.md
-|   
-+---.ipynb_checkpoints
-|       ETL Pipeline Preparation-checkpoint.ipynb
-|       ML Pipeline Preparation-checkpoint.ipynb
-|       
-+---App
-|   |   run1.py
-|   |   
-|   \---templates
-|           go.html
-|           master.html
-|           
-+---data
-|       categories.csv
-|       DisasterResponse.db
-|       messages.csv
-|       process_data.py
-|       Twitter-sentiment-self-drive-DFE.csv
-|       
-+---models
-|       train_classifier1.py
-|       
-+---Notebooks
-|       ETL Pipeline Preparation.ipynb
-|       ML Pipeline Preparation.ipynb
-|       
-\---screenshots
-        Main Page.PNG
-        Percentages of categories.PNG
-        Search Results.PNG
+    |   ETL Pipeline Preparation.ipynb
+    |   ML Pipeline Preparation.ipynb
+    |   new.txt
+    |   README.md
+    |   
+    +---.ipynb_checkpoints
+    |       ETL Pipeline Preparation-checkpoint.ipynb
+    |       ML Pipeline Preparation-checkpoint.ipynb
+    |       
+    +---App
+    |   |   run1.py
+    |   |   
+    |   \---templates
+    |           go.html
+    |           master.html
+    |           
+    +---data
+    |       categories.csv
+    |       DisasterResponse.db
+    |       messages.csv
+    |       process_data.py
+    |       Twitter-sentiment-self-drive-DFE.csv
+    |       
+    +---models
+    |       train_classifier1.py
+    |       
+    +---Notebooks
+    |       ETL Pipeline Preparation.ipynb
+    |       ML Pipeline Preparation.ipynb
+    |       
+    \---screenshots
+            Main Page.PNG
+            Percentages of categories.PNG
+            Search Results.PNG
 Note: Did not include the classifier.pkl because of its large size.    
  
 ## Steb by step instructions:
@@ -74,15 +74,15 @@ Note: Did not include the classifier.pkl because of its large size.
    
      
      
-![screenshots](Main Page.png)
+![screenshots](screenshots/Main%20Page.png)
 
-![screenshots](Percentages of categories.png)
+![screenshots](screenshots/Percentages%20of%20categories.png)
 
 ## Examples
 
   - Message 1 : Stranded at home. Need food and water for a family of 6.
 
-![screenshots](Search Results.png)
+![screenshots](screenshots/Search%20esults.png)
 
   -
 
